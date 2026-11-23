@@ -63,6 +63,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Rotate 3D Point Around Z-Axis | Rotate a 3D point around the z-axis by a given angle while preserving its z coordinate. | https://www.tensortonic.com/problems/rotate-around-z |
 | Implement Sigmoid in NumPy | Implement a vectorized sigmoid activation in NumPy for scalars, lists, vectors, and matrices, including large positive and negative inputs. | https://www.tensortonic.com/problems/sigmoid-numpy |
 | Implement Softmax Function | Implement numerically stable softmax by shifting logits before exponentiation and normalizing probabilities. | https://www.tensortonic.com/problems/softmax-function |
+| Time-Based Split with a Gap | Split rows into training and validation sets along time, with a gap after the cutoff so labels cannot leak across it. | https://www.tensortonic.com/problems/time-based-split-with-gap |
 | Warmup + Linear Decay LR Schedule | Compute a learning-rate schedule with linear warmup followed by linear decay across training steps. | https://www.tensortonic.com/problems/warmup-decay-lr |
 | Implement Wasserstein Critic Loss | Compute the WGAN critic loss as the difference between mean fake and real critic scores, with the formula and tests in the browser. | https://www.tensortonic.com/problems/wasserstein-critic-loss |
 | Weighted Moving Average | Compute a weighted moving average over complete time-series windows using normalized supplied weights. | https://www.tensortonic.com/problems/weighted-moving-average |
